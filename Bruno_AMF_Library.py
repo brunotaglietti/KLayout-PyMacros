@@ -2195,6 +2195,7 @@ class RR_Isolated(pya.PCellDeclarationHelper):
             pya.Point(x0 - MMI_L/2 - tap_ls - w_mh/2 + 2*w_mh, y0 + MMI_w/4 + 2*r)], 4/dbu
         ))
 
+
 class Bruno_AMF_Library(pya.Library):
   """
   The library where we will put the PCell into
